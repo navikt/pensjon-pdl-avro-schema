@@ -29,6 +29,12 @@
         <connection>scm:git:ssh://git@github.com:navikt/pensjon-pdl-avro-schema.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:navikt/pensjon-pdl-avro-schema.git</developerConnection>
     </scm>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/navikt/pensjon-pdl-avro-schema</url>
+        </repository>
+    </distributionManagement>
 
     <dependencies>
         <dependency>

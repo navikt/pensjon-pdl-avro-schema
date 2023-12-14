@@ -100,6 +100,7 @@
                             <goal>schema</goal>
                         </goals>
                         <configuration>
+                            <stringType>String</stringType>
                             <sourceDirectory>${project.build.directory}/generated-schemas/avsc/pdl-leesah</sourceDirectory>
                             <outputDirectory>${project.build.directory}/generated-sources/pdl-leesah</outputDirectory>
                         </configuration>

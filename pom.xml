@@ -21,7 +21,7 @@
         <avro.version>1.11.3</avro.version>
 
         <exec-maven-plugin.version>3.1.1</exec-maven-plugin.version>
-        <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
         <maven-release-plugin.version>3.0.1</maven-release-plugin.version>
    </properties>
 
